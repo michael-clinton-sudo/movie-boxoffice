@@ -26,7 +26,7 @@ A stylish movie and actor search app built for **Box Office** ✨ — powered by
 ## 📁 Project Structure
 
 ```
-shelooks16-box-office-app/
+box-office-app/
 ├── public/
 │   └── index.html
 ├── src/
